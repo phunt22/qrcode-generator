@@ -11,5 +11,5 @@ $ pip install "qrcode[pil]"
 ```
 # Usage
 ```bash
-$ python generate_qr.py "<YOUR_LINK>" <DESTINATION>.png
+$ python main.py "<YOUR_LINK>" <DESTINATION>.png
 ```
